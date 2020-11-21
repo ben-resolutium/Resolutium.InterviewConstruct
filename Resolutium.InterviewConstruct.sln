@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resolutium.InterviewConstru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resolutium.InterviewConstructService", "Resolutium.InterviewConstructService\Resolutium.InterviewConstructService.csproj", "{DD1990AB-E685-413E-8F15-7479909987D2}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Resolutium.UnitTests", "C:\Users\Sadhana\Documents\Resolutium.UnitTests\Resolutium.UnitTests.csproj", "{A29C5758-FEB5-49A5-9E78-4D7DE289727A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{DD1990AB-E685-413E-8F15-7479909987D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD1990AB-E685-413E-8F15-7479909987D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD1990AB-E685-413E-8F15-7479909987D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A29C5758-FEB5-49A5-9E78-4D7DE289727A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A29C5758-FEB5-49A5-9E78-4D7DE289727A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A29C5758-FEB5-49A5-9E78-4D7DE289727A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A29C5758-FEB5-49A5-9E78-4D7DE289727A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
